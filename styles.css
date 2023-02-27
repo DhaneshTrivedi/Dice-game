@@ -7,7 +7,11 @@
 .dice {
   text-align: center;
   display: inline-block;
-
+}
+@media (max-width:900px){
+  .dice{
+    display:block;
+  }
 }
 
 body {
@@ -37,5 +41,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size:10px;
 
 }
