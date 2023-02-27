@@ -27,7 +27,7 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 4rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
@@ -41,6 +41,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  font-size:10px;
+  font-size:30px;
 
 }
